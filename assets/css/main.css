@@ -3701,6 +3701,7 @@ input, select, textarea {
 			margin-bottom: 0;
 			padding-left: 0;
 			text-transform: uppercase;
+			white-space: normal;
 		}
 
 			#nav ul.links li {
@@ -4692,3 +4693,4 @@ input, select, textarea {
 		}
 
 	}
+
