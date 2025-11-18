@@ -5,6 +5,7 @@
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 */
 
 html, body, div, span, applet, object,
@@ -2413,6 +2414,7 @@ input, select, textarea {
 			padding-left: 2.8rem;
 			padding-right: 1rem;
 			position: relative;
+			white-space: nowrap;
 		}
 
 			input[type="checkbox"] + label:before,
@@ -2810,6 +2812,7 @@ input, select, textarea {
 			display: inline-block;
 			padding: 0 0.5rem 0 0;
 			vertical-align: middle;
+			white-space: nowrap;
 		}
 
 			ul.icons li:last-child {
@@ -4510,6 +4513,7 @@ input, select, textarea {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			display: inline-block;
+			white-space: nowrap;
 			font-style: normal;
 			font-variant: normal;
 			text-rendering: auto;
@@ -4596,6 +4600,7 @@ input, select, textarea {
 					letter-spacing: 0.075em;
 					padding: 0.75rem 0;
 					text-transform: uppercase;
+					white-space: nowrap;
 				}
 
 				#navPanel .links li:first-child {
