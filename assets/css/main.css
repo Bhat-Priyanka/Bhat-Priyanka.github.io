@@ -3718,6 +3718,10 @@ input, select, textarea {
 					font-size: 0.8rem;
 					outline: none;
 					padding: 0 2rem;
+					white-space: normal;
+					width: auto;
+					display: inline-block;
+  				    white-space: nowrap;
 				}
 
 					#nav ul.links li a:hover {
@@ -4693,4 +4697,5 @@ input, select, textarea {
 		}
 
 	}
+
 
